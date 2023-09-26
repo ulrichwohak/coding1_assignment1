@@ -14,6 +14,8 @@ In this task you will have to use loops, `if` conditions and the `print` functio
 ` ####`  
 `#####`  
 
+Disclaimer: This problem is inspired by Harvard's cs50 course.  
+  
 ## Task 2: (Super) Super Mario
 Write a function that takes as input an argument `levels` and returns a pyramid like in Task 1 with the number of levels equal to `levels` (i.e. the user of you function can decide the number of levels of the pyramid the function will produce). Note that for this function, you do not necessarily need a `return` statement.  
 

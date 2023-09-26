@@ -3,4 +3,4 @@ You can answer the questions below using Python in any IDE, including Jupyter No
 
 
 ## Question 1: Super Mario
-
+![alt text]([http://url/to/img.png](https://github.com/ulrichwohak/coding1_assignment1/blob/main/Super-Mario-Bros-scene-where-Mario-need-to-jump-over-a-gap-from-the-first-pyramid-to-the.ppm.png)https://github.com/ulrichwohak/coding1_assignment1/blob/main/Super-Mario-Bros-scene-where-Mario-need-to-jump-over-a-gap-from-the-first-pyramid-to-the.ppm.png)

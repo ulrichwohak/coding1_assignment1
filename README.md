@@ -15,4 +15,9 @@ In this task you will have to use loops, `if` conditions and the `print` functio
 `#####`  
 
 ## Task 2: (Super) Super Mario
-Write a function that takes as input an argument `levels` and returns a pyramid like in Task 1 with the number of levels equal to `levels` (i.e. the user of you function can decide the number of levels of the pyramid the function will produce). Note that for this function, you do not necessarily need a `return` statement.
+Write a function that takes as input an argument `levels` and returns a pyramid like in Task 1 with the number of levels equal to `levels` (i.e. the user of you function can decide the number of levels of the pyramid the function will produce). Note that for this function, you do not necessarily need a `return` statement.  
+
+## Task 3: Pandas practice
+Follow the homework instructions here: https://github.com/ulrichwohak/da-coding-python/tree/main/lecture04-pandas-basics  
+Write a program that completes the task specified in the link above.
+
